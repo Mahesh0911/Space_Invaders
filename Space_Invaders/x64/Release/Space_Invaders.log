@@ -1,0 +1,218 @@
+﻿  Bullet.cpp
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Bullet.cpp(13,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Bullet.cpp(13,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Bullet.cpp(14,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Bullet.cpp(15,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Bullet.cpp(16,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Bullet.cpp(17,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Bullet.cpp(17,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Bullet.cpp(27,17): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Bullet.cpp(37,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Enemy.cpp
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Enemy.cpp(13,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Enemy.cpp(13,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Enemy.cpp(14,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Enemy.cpp(14,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Enemy.cpp(15,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Enemy.cpp(16,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Enemy.cpp(17,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Enemy.cpp(17,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Enemy.cpp(18,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Enemy.cpp(18,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Enemy.cpp(19,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Enemy.cpp(19,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Enemy.cpp(20,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Enemy.cpp(20,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Enemy.cpp(21,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Enemy.cpp(21,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Enemy.cpp(26,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Enemy.cpp(27,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Enemy.cpp(28,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Enemy.cpp(28,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Enemy.cpp(32,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Enemy.cpp(33,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Enemy.cpp(34,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Enemy.cpp(34,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Enemy.cpp(43,21): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Enemy.cpp(45,21): warning C4305: '-=': truncation from 'double' to 'float'
+  GameOverScreen.cpp
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\GameOverScreen.cpp(42,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\GameOverScreen.cpp(45,58): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\GameOverScreen.cpp(45,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\GameOverScreen.cpp(49,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\GameOverScreen.cpp(52,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\GameOverScreen.cpp(52,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\GameOverScreen.cpp(57,48): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\GameOverScreen.cpp(57,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\GameOverScreen.cpp(61,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\GameOverScreen.cpp(61,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\GameOverScreen.cpp(66,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\GameOverScreen.cpp(66,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\GameOverScreen.cpp(68,65): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\GameOverScreen.cpp(68,58): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\GameOverScreen.cpp(68,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  HealthBar.cpp
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\HealthBar.cpp(12,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\HealthBar.cpp(13,55): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\HealthBar.cpp(13,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\HealthBar.cpp(14,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\HealthBar.cpp(20,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Heart.cpp
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Heart.cpp(14,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Heart.cpp(14,54): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Heart.cpp(19,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Heart.cpp(19,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Heart.cpp(20,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Heart.cpp(20,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Lazer.cpp
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Lazer.cpp(12,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Lazer.cpp(12,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Lazer.cpp(13,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Lazer.cpp(14,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Lazer.cpp(15,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Lazer.cpp(15,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Lazer.cpp(22,19): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Lazer.cpp(26,17): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Lazer.cpp(38,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(31,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(65,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(79,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(79,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(93,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(93,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(96,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(263,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(263,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(266,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(266,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(269,67): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(269,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(273,64): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(273,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(277,67): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(277,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(306,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(306,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(307,72): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(307,64): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(308,72): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(308,64): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(309,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(309,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(312,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(312,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(313,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(313,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(371,60): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(432,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(433,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(437,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(437,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(438,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(438,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(442,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(442,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(443,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(443,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(447,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(447,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(448,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(448,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(452,48): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(452,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(453,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(453,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(458,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(459,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(460,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(464,70): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(464,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(465,62): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(465,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(469,62): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(469,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(470,61): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(470,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(474,61): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(474,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(475,62): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(475,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(479,64): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(479,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(480,62): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp(480,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Player.cpp
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Player.cpp(13,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Player.cpp(13,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Player.cpp(14,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Player.cpp(14,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Player.cpp(15,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Player.cpp(15,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Player.cpp(16,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Player.cpp(16,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Player.cpp(17,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Player.cpp(21,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Player.cpp(21,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Player.cpp(22,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Player.cpp(22,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Player.cpp(23,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Player.cpp(23,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Player.cpp(27,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Player.cpp(27,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Player.cpp(28,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Player.cpp(28,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Player.cpp(29,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Player.cpp(29,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Player.cpp(33,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Player.cpp(33,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Player.cpp(34,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Player.cpp(34,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Player.cpp(35,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Player.cpp(42,21): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Player.cpp(45,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Player.cpp(53,21): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Player.cpp(56,12): warning C4305: '=': truncation from 'double' to 'float'
+  SegmentDisplay.cpp
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\SegmentDisplay.cpp(11,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\SegmentDisplay.cpp(16,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\SegmentDisplay.cpp(22,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\SegmentDisplay.cpp(23,39): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\SegmentDisplay.cpp(30,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\SegmentDisplay.cpp(31,52): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\SegmentDisplay.cpp(31,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\SegmentDisplay.cpp(37,52): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\SegmentDisplay.cpp(37,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\SegmentDisplay.cpp(38,51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\SegmentDisplay.cpp(38,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\SegmentDisplay.cpp(47,39): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\SegmentDisplay.cpp(48,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\SegmentDisplay.cpp(48,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\SegmentDisplay.cpp(54,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\SegmentDisplay.cpp(55,49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\SegmentDisplay.cpp(55,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\SegmentDisplay.cpp(61,53): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\SegmentDisplay.cpp(61,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\SegmentDisplay.cpp(62,52): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\SegmentDisplay.cpp(62,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\SegmentDisplay.cpp(69,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\SegmentDisplay.cpp(78,51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\SegmentDisplay.cpp(78,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\SegmentDisplay.cpp(79,53): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\SegmentDisplay.cpp(79,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\SegmentDisplay.cpp(85,53): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\SegmentDisplay.cpp(85,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\SegmentDisplay.cpp(95,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\SegmentDisplay.cpp(96,53): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\SegmentDisplay.cpp(96,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\SegmentDisplay.cpp(102,53): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\SegmentDisplay.cpp(102,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\SegmentDisplay.cpp(103,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\SegmentDisplay.cpp(109,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\SegmentDisplay.cpp(110,52): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\MaheshRD\Downloads\space-invader-game.-main (1)\space-invader-game.-main\SegmentDisplay.cpp(110,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 495 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Space_Invaders.vcxproj -> C:\Users\MaheshRD\Desktop\Space_Invaders\x64\Release\Space_Invaders.exe
