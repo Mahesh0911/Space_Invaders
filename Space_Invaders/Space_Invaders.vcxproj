@@ -129,27 +129,7 @@
       <AdditionalDependencies>glfw3.lib;opengl32.lib;User32.lib;Gdi32.lib;Shell32.lib;$(CoreLibraryDependencies);freeglut.lib;glew32.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\..\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Bullet.hpp" />
-    <ClInclude Include="..\..\..\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Enemy.hpp" />
-    <ClInclude Include="..\..\..\Downloads\space-invader-game.-main (1)\space-invader-game.-main\GameOverScreen.hpp" />
-    <ClInclude Include="..\..\..\Downloads\space-invader-game.-main (1)\space-invader-game.-main\HealthBar.hpp" />
-    <ClInclude Include="..\..\..\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Heart.hpp" />
-    <ClInclude Include="..\..\..\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Lazer.hpp" />
-    <ClInclude Include="..\..\..\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Player.hpp" />
-    <ClInclude Include="..\..\..\Downloads\space-invader-game.-main (1)\space-invader-game.-main\SegmentDisplay.hpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\..\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Bullet.cpp" />
-    <ClCompile Include="..\..\..\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Enemy.cpp" />
-    <ClCompile Include="..\..\..\Downloads\space-invader-game.-main (1)\space-invader-game.-main\GameOverScreen.cpp" />
-    <ClCompile Include="..\..\..\Downloads\space-invader-game.-main (1)\space-invader-game.-main\HealthBar.cpp" />
-    <ClCompile Include="..\..\..\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Heart.cpp" />
-    <ClCompile Include="..\..\..\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Lazer.cpp" />
-    <ClCompile Include="..\..\..\Downloads\space-invader-game.-main (1)\space-invader-game.-main\main.cpp" />
-    <ClCompile Include="..\..\..\Downloads\space-invader-game.-main (1)\space-invader-game.-main\Player.cpp" />
-    <ClCompile Include="..\..\..\Downloads\space-invader-game.-main (1)\space-invader-game.-main\SegmentDisplay.cpp" />
-  </ItemGroup>
+  
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
